@@ -5,3 +5,5 @@ yyaxis left
 plot(t,xsol(:,1),'b-o')
 yyaxis right
 plot(t,xsol(:,2),'r-o')
+
+Credit to https://www.youtube.com/watch?v=iswpTDg5tyY for helping me understand how to use ODE45
